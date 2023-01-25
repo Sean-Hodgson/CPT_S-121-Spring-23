@@ -96,7 +96,7 @@ int main(void) {
 	
 	// Circumference
 	double radius = 0.0;
-	double pi = 3.14159265358979323846264338327950288419716939937510;
+	double pi = 3.14159265358979323846264338327950288419716939937510; // can use the math.h for this in future. 
 	printf("\nPlease enter the Radius:");
 	scanf("%lf", &radius);
 	double two = 2.0;
